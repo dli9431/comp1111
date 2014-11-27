@@ -1,1 +1,4 @@
-/*.class
+/lab1/bin/*.class
+/lab1/bin/p1/*.class
+/lab1/src/*.class
+/lab1/src/p1/*.class
